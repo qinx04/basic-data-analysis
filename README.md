@@ -1,7 +1,5 @@
 # Basic Data Analysis with Python
 
----
-
 ## 📊 Project Overview
 
 This repository showcases fundamental **data analysis** skills using **Python**, focusing on common techniques to explore, visualize, and model data. It demonstrates a practical approach to understanding datasets, uncovering insights, and building predictive models.
@@ -15,8 +13,6 @@ The primary goal of this project is to illustrate:
 * **Basic machine learning application** (Logistic Regression) for classification.
 * **Model evaluation** using metrics like accuracy and confusion matrices.
 
----
-
 ## ✨ Skills Demonstrated
 
 This project highlights proficiency in:
@@ -29,19 +25,16 @@ This project highlights proficiency in:
 * **Scikit-learn**: Implementing machine learning models (Logistic Regression) and evaluating performance.
 * **Statistical Analysis**: Grouping data, calculating means, and understanding distributions.
 
----
-
 ## 🚀 How to Run This Project
 
 To explore this analysis on your local machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YourUsername/basic-data-analysis.git
+    git clone https://github.com/qinx04/basic-data-analysis.git
     cd basic-data-analysis
     ```
-    (Replace `YourUsername` with your actual GitHub username)
-
+    
 2.  **Create a virtual environment (recommended):**
     ```bash
     python -m venv venv
@@ -66,8 +59,6 @@ To explore this analysis on your local machine, follow these steps:
     python your_analysis_script.py
     ```
     *(You will need to ensure the `dean.xlsx` file is in the same directory as your script.)*
-
----
 
 ## 📈 Analysis Walkthrough & Key Findings
 
@@ -172,8 +163,6 @@ print(cmtx)
 
 **Model Accuracy & Confusion Matrix:** The model achieved an accuracy of approximately **79.5%**. The confusion matrix provides a breakdown of correct and incorrect predictions for placement status.
 
----
-
 ## 📂 Repository Structure
 
 ```
@@ -183,12 +172,7 @@ basic-data-analysis/
 ├── basic_analysis.py        # (Suggested) Python script version of the analysis
 └── README.md                # This file
 ```
-*(Adjust the file names `basic_analysis.ipynb` or `basic_analysis.py` to match your actual file name.)*
-
----
 
 ## 🤝 Contribution
 
 Feel free to fork this repository, experiment with the code, and suggest improvements or additional analyses!
-
----
