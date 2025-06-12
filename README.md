@@ -79,7 +79,6 @@ df.hist(figsize=(12,12))
 plt.tight_layout() # Adjust layout to prevent overlapping titles
 plt.show() # Display the plot
 ```
-*(You'll want to save this plot as an image and embed it in your `README.md` for quick viewing.)*
 
 Further EDA delves into the relationship between placement status (`Placement_B`) and `Salary`.
 
@@ -106,7 +105,6 @@ plt.title('Box Plot of Salary for Placed Candidates')
 plt.xlabel('Salary')
 plt.show() # Display the plot
 ```
-*(Again, save and embed these plots.)*
 
 Scatter plots are used to visually inspect potential relationships between various academic performance metrics (e.g., `Percent_SSC`, `Percent_HSC`, `Percent_Degree`, `Percentile_ET`, `Percent_MBA`) and `Salary` for placed individuals.
 
@@ -123,7 +121,6 @@ plt.ylabel('Salary')
 plt.legend()
 plt.show()
 ```
-*(Save and embed this plot.)*
 
 ### Predictive Modeling (Logistic Regression)
 
@@ -160,10 +157,9 @@ print(cmtx)
 
 ```
 basic-data-analysis/
-├── dean.xlsx                # Sample dataset used for analysis
-├── basic_analysis.ipynb     # (Suggested) Jupyter Notebook with the full analysis
-├── basic_analysis.py        # (Suggested) Python script version of the analysis
-└── README.md                # This file
+├── a dean's dilemma selection of students for the MBA program.xlsx    # Sample dataset used for analysis
+├── a dean's dilemma analysis.ipynb                                    # Jupyter Notebook with the full analysis
+└── README.md                                                          # This file
 ```
 
 ## 🤝 Contribution
