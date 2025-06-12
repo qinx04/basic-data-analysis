@@ -51,15 +51,15 @@ To explore this analysis on your local machine, follow these steps:
 
 4.  **Open and run the analysis:**
     You can open the Jupyter Notebook to step through the analysis.
-    *(You will need to ensure the `dean.xlsx` file is in the same directory as your script.)*
+    *(You will need to ensure the .xlsx file is in the same directory as your script.)*
 
 ## 📈 Analysis Walkthrough & Key Findings
 
-This project uses a dataset (presumably `dean.xlsx`) to analyze factors related to student placements and salaries.
+This project uses a dataset to analyze factors related to student placements and salaries.
 
 ### Data Loading and Initial Inspection
 
-The analysis begins by loading the `dean.xlsx` file into a Pandas DataFrame and performing an initial inspection using `df.info()`. This step is crucial for understanding data types, non-null counts, and memory usage.
+The analysis begins by loading the dataset into a Pandas DataFrame and performing an initial inspection using `df.info()`. This step is crucial for understanding data types, non-null counts, and memory usage.
 
 ```python
 import pandas as pd
