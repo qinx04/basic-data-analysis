@@ -31,7 +31,7 @@ To explore this analysis on your local machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/qinx04/basic-data-analysis.git
+    git clone https://github.com/thexqin/basic-data-analysis.git
     cd basic-data-analysis
     ```
     
@@ -50,14 +50,7 @@ To explore this analysis on your local machine, follow these steps:
     ```
 
 4.  **Open and run the analysis:**
-    You can open the Python script (`your_analysis_script.py` - *you'll need to name your main analysis file*) or a Jupyter Notebook (if you convert your code) to step through the analysis.
-
-    *Self-correction: Based on the sample output, it looks like this was run in an interactive environment like Jupyter Notebook or an IDE. Consider putting your code into a `.py` file or a `.ipynb` notebook and noting that here.*
-
-    ```python
-    # Example if your code is in a Python script
-    python your_analysis_script.py
-    ```
+    You can open the Jupyter Notebook to step through the analysis.
     *(You will need to ensure the `dean.xlsx` file is in the same directory as your script.)*
 
 ## 📈 Analysis Walkthrough & Key Findings
