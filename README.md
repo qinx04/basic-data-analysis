@@ -157,9 +157,9 @@ print(cmtx)
 
 ```
 basic-data-analysis/
-├── a dean's dilemma selection of students for the MBA program.xlsx    # Sample dataset used for analysis
-├── a dean's dilemma analysis.ipynb                                    # Jupyter Notebook with the full analysis
-└── README.md                                                          # This file
+├── a_dean's_dilemma_selection_of_students_for_the_MBA_program.xlsx   # Sample dataset used for analysis
+├── a_dean's_dilemma_analysis.ipynb                                   # Jupyter Notebook with the full analysis
+└── README.md                                                         # This file
 ```
 
 ## 🤝 Contribution
